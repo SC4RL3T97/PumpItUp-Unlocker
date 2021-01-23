@@ -43,7 +43,7 @@ LX 기체에서 구동하였습니다.
 
 STEP 0
 펌프 기체 설정을 다음과 같이 변경합니다.
- 4 Lives, Free play 
+4 Lives, Free play 
 
 STEP 1
 펌프 잇업 AM.PASS카드에 다음과 같은 User Custom Step(이하 UCS)를 등록합니다.
