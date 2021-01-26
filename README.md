@@ -1,4 +1,4 @@
-# PumpItUpXX-Brain-Power-Unlocker
+# Pump It Up XX - Brain Power Unlocker
 
 [NOTICE]
 Unexpected errors and breakdowns may occur due to the use of
