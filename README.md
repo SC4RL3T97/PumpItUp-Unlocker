@@ -54,5 +54,9 @@ https://youtu.be/oCq5KRuHL8o
 6. 스텝 모터 1개
 7. 펌프 잇업 카드 (AM.PASS) 1개
 8. USB B타입 케이블 (아두이노 케이블) 2개
-9. 5V USB 충전기 1개
+9. USB 충전기 1개
 * 브레드 보드 사용시 점퍼선과 연선 필요, 직접적인 납땜을 할시 연선 필요
+* 펌프 발판 커넥터는 https://www.eleparts.co.kr/goods/view?no=25275 이 제품과 연선으로 제작 가능
+* 1P, 2P 모두 사용  
+
+
