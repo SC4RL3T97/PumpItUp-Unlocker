@@ -63,3 +63,5 @@ https://youtu.be/oCq5KRuHL8o
 
 [제작 과정]
 -------------
+
+Step 1  
