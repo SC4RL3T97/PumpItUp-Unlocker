@@ -56,7 +56,7 @@ https://youtu.be/oCq5KRuHL8o
 8. USB B타입 케이블 (아두이노 케이블) 2개
 9. USB 충전기 1개
 * 브레드 보드 사용시 점퍼선과 연선 필요, 직접적인 납땜을 할시 연선 필요
-* 펌프 발판 커넥터는 https://www.eleparts.co.kr/goods/view?no=25275 이 제품과 연선으로 제작 가능
+* 펌프 발판 커넥터는 [5557-02R](https://www.eleparts.co.kr/goods/view?no=25275) 이 제품과 연선으로 제작 가능
 * 1P, 2P 모두 사용  
 
 
