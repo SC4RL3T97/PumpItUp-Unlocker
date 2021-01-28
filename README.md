@@ -3,7 +3,7 @@
 [NOTICE]
 -------------
 
-Unexpected errors and breakdowns may occur due to the use of. 
+Unexpected errors and breakdowns may occur due to the use of  
 this source code and the direct connection of equipment to Pump It Up,  
 and all responsibility lies with the user.  
 It is provided in Korean, so please use a translator.
