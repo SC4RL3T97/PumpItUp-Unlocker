@@ -1,6 +1,7 @@
 # PumpItUpXX-Brain-Power-Unlocker
 
 [NOTICE]
+-------------
 
 Unexpected errors and breakdowns may occur due to the use of
 
@@ -12,6 +13,7 @@ It is provided in Korean, so please use a translator.
 
 
 [주의사항]
+-------------
 
 이 소스코드의 사용과 Pump it up 기체에 직접적인 장비 연결에 대한 손상, 오류 등을 초례할 수 있습니다.
 
