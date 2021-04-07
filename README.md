@@ -1,4 +1,4 @@
-# PumpItUpXX-Brain-Power-Unlocker
+# PumpItUp-Unlocker
 
 [NOTICE]
 -------------
@@ -34,6 +34,8 @@ LX 기체에서 구동하였습니다.
 테스트 결과 몇시간동안 연속적으로 작동시키면 펌프 기체가 과부하에 걸려 렉이 걸릴 수 있습니다.  
 이 경우에는 펌프 기체를 재부팅 해주세요.  
 
+크로싱 델타(2021.04.07 업데이트)에도 사용 가능한 방법인지는 테스트되지 않았습니다.
+
 작동 영상  
 https://youtu.be/oCq5KRuHL8o
 
@@ -59,9 +61,3 @@ https://youtu.be/oCq5KRuHL8o
 * 펌프 발판 커넥터는 [5557-02R](https://www.eleparts.co.kr/goods/view?no=25275) 이 제품과 연선으로 제작 가능
 * 1P, 2P 모두 사용  
 * 대체 가능한 부품 사용 가능
-
-
-[제작 과정]
--------------
-
-Step 1  
